@@ -1,4 +1,4 @@
-This is a repository to provide a link to NFT Raffel Calculator.
+**This is a repository to provide a link to NFT Raffel Calculator.**
 
 Please check out here: --> https://kernelstree.herokuapp.com/join/goguhele
 
